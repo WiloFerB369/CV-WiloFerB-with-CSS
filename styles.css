@@ -1,0 +1,146 @@
+/* * {
+  margin: 0px;
+  padding: 0px;
+} */
+
+h1{
+    font-size: 3.8em;
+    color: #216869;
+    font-family: 'Calibri', sans-serif;
+    text-shadow: 3px 3px 5px #1F2421;
+    text-align: center;
+    padding: 0 0 5px;
+    margin: 10px 0;
+  }
+  
+  h2{
+    font-size: 24px;
+    font-family: 'Calibri', sans-serif;
+    border: 3px solid #49A078;
+    border-radius: 10px;
+    display: inline;
+    background-color: #9CC5A1;
+    padding: 0 0 5px;
+    margin: 10px 0;
+    color:#1F2421;
+  }
+  
+  h3{
+    font-size: 20px;
+    font-family: 'Calibri', sans-serif;
+  }
+  
+  .contenedor_A p,li{
+    font-size: 18px;
+    font-family: 'Calibri', sans-serif;
+    text-align: justify;
+  }
+  
+  div.Habilidades li{
+    list-style-type: none;
+    text-align: left;
+    font-weight: bold;
+    font-style: italic;
+    font-size:  15px;
+  }
+  
+  div.Habilidades ul{
+    margin: 0;
+    padding: 0;
+  }
+  
+  div.Resumen p{
+    font-size: 1.3em;
+  }
+  
+  div.Formacion p{
+    margin: 0;
+    padding: 0;
+  }
+  
+  div.Experiencia h3{
+    margin: 1em 0 0;
+  }
+  p.Fechas {
+    margin: 0 0 1em;
+  }
+  
+  div.Formacion h3{ 
+    margin: 20px 0 0;
+  }
+  div.contenedor {
+    width: 70%;
+    margin: auto;
+    display: flex;
+    border: 2px solid #216869;
+  }
+  
+  div.Contenedor_A {
+    padding: 30px;
+    background: #DCE1DE;
+  }
+  
+  div.Contenedor_B {
+    padding: 30px;
+    background: #9CC5A1;
+    box-shadow:  -20px  0px 15px  #9CC5A1;
+  }
+  
+  div.Contenedor_B h3{
+    margin: 20px 0 0;
+  }
+  
+  div.Contenedor_B hr{
+    margin: 0px 0 15px;
+  }
+  
+  div.contenedor_A hr{
+    margin: 10px 0 0;
+  }
+  
+  div.Contenedor_B img{
+    border-radius: 150px;
+    box-shadow: 0px 0px 30px 15px #49A078;
+  }
+  div.Contenedor_B p,label{
+    font-size: 18px;
+    font-family: 'Calibri',sans-serif;
+  }
+  
+  div.Contenedor_B a{
+    text-decoration:  none;
+    font-size: 18px;
+    font-family: 'Calibri',sans-serif;
+    display: block;
+    margin: 18px 0;
+    color:black;
+  }
+  
+  span.porcentaje{
+    width: 70%;
+    height: 10px;
+    background-color: #1F2421;
+    display: block;
+    margin-top: 5px;
+    border-radius: 5px;
+  }
+  span.porcentaje div{
+   background: #DCE1DE;
+   height: 10px;
+   border-radius: 5px;
+  }
+  
+  div.Intereses table{
+    border-collapse: collapse;
+    border: 2px solid black;
+    font-family: 'Calibri', sans-serif;
+    font-size: 18px;
+  }
+  
+  div.SaberMas p{
+    font-size: 13px;
+    margin: 0 0 10px;
+  }
+   div.SaberMas hr{
+     margin: 0;
+   }
